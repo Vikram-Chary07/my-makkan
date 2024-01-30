@@ -7,7 +7,7 @@
 	GitHub Repository URL :https://github.com/Vikram-Chary07/my-makkan
    Industry : Real Estate
 
-<h1>Roles & Responsibilities</h1>
+<h1>Roles & Responsibilities</h1
 <p> <b>Samuel Andrews (Deployment management) : </b>Deployment and maintenance of project infrastructure.</p>
 <p><b>Thangalapally Vikram (Project management & Content management) : </b> Manages the web development project and Responsible for managing the website content.
 <p><b>Naveen Kumar (Documentation management) : </b>Responsible for managing the Documentation process.</p>
