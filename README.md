@@ -1,12 +1,12 @@
 <h1>MY MAKKAN:</h1>
 <p>Experience the pinnacle of modern living in our new homes, where style meets comfort in a perfect blend of luxury and convenience.</p>
 <h1>Project Details</h1>
-<ul>
-<li>	**Project Demo URL </li>
-<li>	**Demo Video URL </li>
-<li>	GitHub Repository URL :</li>
-<li>	Industry : Real Estate</li>
-</ul>
+
+	**Project Demo URL :https://mymakkanstorage.z13.web.core.windows.net/
+	**Demo Video URL :https://www.youtube.com/watch?v=43OVFJ1ULb
+	GitHub Repository URL :
+   Industry : Real Estate
+
 <h1>Roles & Responsibilities</h1>
 <p> <b>Samuel Andrews (Deployment management) : </b>Deployment and maintenance of project infrastructure.</p>
 <p><b>Thangalapally Vikram (Project management & Content management) : </b> Manages the web development project and Responsible for managing the website content.
