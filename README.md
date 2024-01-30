@@ -32,6 +32,7 @@ Azure App Service Plan is a foundational component within Microsoft Azure that d
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
 
 <h1>Manage Identity</h1>
+<img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/manage%20identity.png?raw=true">
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services
 
 <h1>Search Service</h1>
