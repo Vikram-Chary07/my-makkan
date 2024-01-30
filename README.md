@@ -13,11 +13,27 @@
 <p><b>Naveen Kumar (Documentation management) : </b>Responsible for managing the Documentation process.</p>
 <h1>Azure services used:</h1>
 <img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/storage%20account.png?raw=true">
-<p>1. Azure blob storage</p>
-<p>2. Storage account</p>
-<p>3. Azure Backup service</p>
-<p>4. Azure AI services</p>
-<p>5. chatbot</p>
+<h1>Azure Blob Storage:</h1>
+<img src="">
+Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
+  
+<h1>Azure Storage Services</h1>
+Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+
+<h1>Azure Backup Service</h1>
+Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information
+<h1>Azure App Service Plan</h1>
+
+Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
+
+<h1>Azure AI Service</h1>
+Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
+
+<h1>Manage Identity</h1>
+Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services
+
+<h1>Search Service</h1>
+Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise
   
 <h1>Problem Statement:</h1>
 <p>Create an efficient and user-friendly online platform that addresses the challenges in selling and renting houses. The system should streamline property listing, enhance search functionalities, and provide secure transaction processing for both buyers and renters. Additionally, implement features such as virtual property tours, reliable tenant screening, and transparent communication channels to foster trust and ease in the buying and renting processes. Focus on optimizing the user experience to make the platform a go-to resource for individuals looking to buy or rent residential properties.</p>
