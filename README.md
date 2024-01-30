@@ -2,10 +2,12 @@
 <p>Experience the pinnacle of modern living in our new homes, where style meets comfort in a perfect blend of luxury and convenience.</p>
 <h1>Project Details</h1>
 
-	Project Demo URL : https://mymakkanstorage.z13.web.core.windows.net/
-	Demo Video URL : https://www.youtube.com/watch?v=43OVFJ1ULb
-	GitHub Repository URL : https://github.com/Vikram-Chary07/my-makkan
-   Industry : Real Estate
+Project Demo URL : (https://mymakkanstorage.z13.web.core.windows.net/)
+Demo Video URL : (https://www.youtube.com/watch?v=43OVFJ1ULb8)
+Github Repository URL : (https://github.com/Vikram-Chary07/my-makkan)
+Industry : REAL ESTATE WEBSITE HOUSE SALES
+
+	
 
 <h1>Roles & Responsibilities</h1>
 <p> <b>Samuel Andrews (Deployment management) : </b>Deployment and maintenance of project infrastructure.</p>
