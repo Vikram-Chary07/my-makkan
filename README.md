@@ -13,6 +13,16 @@ Industry : REAL ESTATE WEBSITE HOUSE SALES
 <p> <b>Samuel Andrews (Deployment management) : </b>Deployment and maintenance of project infrastructure.</p>
 <p><b>Thangalapally Vikram (Project management & Content management) : </b> Manages the web development project and Responsible for managing the website content.
 <p><b>Naveen Kumar (Documentation management) : </b>Responsible for managing the Documentation process.</p>
+<h1>AZURE SERVICES USED:</h1>
+1.Azure Storage Account<br>
+2.Azure Blob Storage<br>
+3.Azure Backup Service<br>
+4.Azure App Service Plan<br>
+<h1>AZURE AI SERVICES USED:</h1>
+1.Azure Bot Service<br>
+2.Manage Identity<br>
+3.Azure AI Service<br>
+4.Search Service<br>
 <h1>Azure services used:</h1>
 <img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/storage%20account.png?raw=true">
 <h1>Azure Blob Storage:</h1>
