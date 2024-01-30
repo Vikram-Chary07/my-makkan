@@ -12,6 +12,7 @@
 <p><b>Thangalapally Vikram (Project management & Content management) : </b> Manages the web development project and Responsible for managing the website content.
 <p><b>Naveen Kumar (Documentation management) : </b>Responsible for managing the Documentation process.</p>
 <h1>Azure services used:</h1>
+<img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/storage%20account.png?raw=true">
 <p>1. Azure blob storage</p>
 <p>2. Storage account</p>
 <p>3. Azure Backup service</p>
