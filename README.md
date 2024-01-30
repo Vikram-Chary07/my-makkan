@@ -33,7 +33,7 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 <h1>Manage Identity</h1>
 <img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/manage%20identity.png?raw=true">
-Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services
+Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an Identity management solution for applications and services
 
 <h1>Search Service</h1>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise
