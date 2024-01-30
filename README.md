@@ -14,7 +14,7 @@
 <h1>Azure services used:</h1>
 <img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/storage%20account.png?raw=true">
 <h1>Azure Blob Storage:</h1>
-<img src="">
+<img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/azure%20blob%20storage.png?raw=true">
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
   
 <h1>Azure Storage Services</h1>
