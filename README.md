@@ -23,8 +23,9 @@ Azure Storage Account is a cloud-based storage solution provided by Microsoft Az
 <h1>Azure Backup Service</h1>
 <img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/azure%20backup%20service.png?raw=true">
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information
-<h1>Azure App Service Plan</h1>
 
+<h1>Azure App Service Plan</h1>
+<img src="https://github.com/Vikram-Chary07/my-makkan/blob/main/azure%20app%20service%20plan.png?raw=true">
 Azure App Service Plan is a foundational component within Microsoft Azure that defines the region, compute resources, and features available to host web applications, mobile app backends, and RESTful APIs using Azure App Service.
 
 <h1>Azure AI Service</h1>
