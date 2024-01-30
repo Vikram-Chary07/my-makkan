@@ -1,4 +1,4 @@
-<h1>MY MAKKAN</h1>
+<h1>MY MAKKAN:</h1>
 <p>Experience the pinnacle of modern living in our new homes, where style meets comfort in a perfect blend of luxury and convenience.</p>
 <h1>Project Details</h1>
 
